@@ -1,4 +1,4 @@
-# KJV 2016
+# LITV 1993
 
 Green's Literal Translation 1993 from https://www.textusreceptusbibles.com/JPGreen 
 processed for use with:
